@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "ShootThemUp",
-			"Path": "d:\\games\\Unreal Projects\\ShootThemUp\\Source\\ShootThemUp.Target.cs",
+			"Path": "D:\\games\\Unreal Projects\\ShootThemUp\\Source\\ShootThemUp.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "ShootThemUpEditor",
-			"Path": "d:\\games\\Unreal Projects\\ShootThemUp\\Source\\ShootThemUpEditor.Target.cs",
+			"Path": "D:\\games\\Unreal Projects\\ShootThemUp\\Source\\ShootThemUpEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
