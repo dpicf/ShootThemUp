@@ -5,3 +5,13 @@ D:\games\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerSt
 D:\games\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 D:\games\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
 D:\games\Unreal Projects\ShootThemUp\Intermediate\Build\Win64\UE4Editor\Inc\ShootThemUp\STUGameModeBase.generated.h
+D:\games\Unreal Projects\ShootThemUp\Source\ShootThemUp\Public\STUBaseCharacter.h
+D:\games\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\games\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+D:\games\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+D:\games\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\games\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\games\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\games\Unreal Projects\ShootThemUp\Intermediate\Build\Win64\UE4Editor\Inc\ShootThemUp\STUBaseCharacter.generated.h
+D:\games\Unreal Projects\ShootThemUp\Source\ShootThemUp\Public\STUPlayerController.h
+D:\games\Unreal Projects\ShootThemUp\Intermediate\Build\Win64\UE4Editor\Inc\ShootThemUp\STUPlayerController.generated.h

@@ -1,4 +1,4 @@
-// Shoot Them Up Game. All Right Reserved.
+// Shoot Them Up Game, All Rights Reserved.
 
 #pragma once
 
@@ -13,5 +13,8 @@ UCLASS()
 class SHOOTTHEMUP_API ASTUGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
-	
+
+	public:
+		ASTUGameModeBase();
+
 };
